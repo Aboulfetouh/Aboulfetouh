@@ -8,11 +8,9 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400"/>
 </h3>
 
-<h3 align="center">
-Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ultraviolet/25/000000/code.png"/>
-</h3>
+<h1 align="center">Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ultraviolet/28/000000/code.png"/></h1>
 
-*Technologies that I used or currently working with:*
+***Technologies that I used or currently working with:***
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="28" />
@@ -49,7 +47,7 @@ Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ul
 </p>  
 
 
-*Technologies that I'm planning to learn:*
+***Technologies that I'm planning to learn:***
 <p>
 <img src="https://img.icons8.com/color/35/000000/jenkins.png" title="Jenkins"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="35px" />
@@ -62,11 +60,9 @@ Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ul
 </p>  
 
 
-<h3 align="center">
-Let's Connect <img src="https://img.icons8.com/color-glass/28/000000/share-2.png"/>
-</h3>
+<h1 align="center">Let's Connect <img src="https://img.icons8.com/color-glass/28/000000/share-2.png"/></h1>
 
-*You Can Reach Me At*
+***You Can Reach Me At***
 
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/mohamed-mahmoud-2b729360/)
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/GitHub.png" height="40em" align="center" alt="Follow Me on GitHub" title="Follow Me on GitHub"/>](https://github.com/Aboulfetouh)
@@ -76,11 +72,9 @@ Let's Connect <img src="https://img.icons8.com/color-glass/28/000000/share-2.png
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 
 
-<h3 align="center">
-Here's to make your day better
-</h3>
+<h1 align="center">Here's to make your day better</h1>
 
-(*PS: Refresh the page to see a new meme* :wink: )
+***(*PS: Refresh the page to see a new meme* :wink: )***
 
 <a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
