@@ -8,13 +8,13 @@
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400"/>
 </h3>
 
+<h3 align="center">
+Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ultraviolet/25/000000/code.png"/>
+</h3>
 
-# Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ultraviolet/32/000000/code.png"/>
-                                                  
 *Technologies that I used or currently working with:*
 
 <p>
-  
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="28" />
   <img src="https://img.shields.io/badge/EclipseIde-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white" alt="EclipseIde logo" title="EclipseIde" height="28" />
   <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium logo" title="Selenium" height="28" />
@@ -49,7 +49,23 @@
 </p>  
 
 
-## Let's Connect <img src="https://img.icons8.com/color-glass/28/000000/share-2.png"/>
+*Technologies that I'm planning to learn:*
+<p>
+<img src="https://img.icons8.com/color/35/000000/jenkins.png" title="Jenkins"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="35px" />
+<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/rest-assured-logo.png" title="Rest-Assured" width="35px" />
+<img src="https://img.icons8.com/color/35/000000/python--v1.png" title="Python" />
+<img src="https://img.icons8.com/color/35/vue-js.png" title="Vue-JS"/>
+<img src="https://img.icons8.com/color/35/nodejs.png" title="NodeJS"/>
+<img src="https://img.icons8.com/color/35/npm.png" title="NPM"/>
+<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/REST%20API.png" title="Restful-API" width="35px"/>
+</p>  
+
+
+<h3 align="center">
+Let's Connect <img src="https://img.icons8.com/color-glass/28/000000/share-2.png"/>
+</h3>
+
 *You Can Reach Me At*
 
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/mohamed-mahmoud-2b729360/)
@@ -60,7 +76,10 @@
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 
 
-### Here's to make your day better
+<h3 align="center">
+Here's to make your day better
+</h3>
+
 (*PS: Refresh the page to see a new meme* :wink: )
 
 <a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
