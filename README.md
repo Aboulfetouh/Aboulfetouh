@@ -9,7 +9,7 @@
 </h3>
 
 
-# Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ultraviolet/120/000000/code.png" width="32px" />
+# Programming languages, Tools and Frameworks! <img src="https://img.icons8.com/ultraviolet/32/000000/code.png"/>
                                                   
 *Technologies that I used or currently working with:*
 
@@ -49,7 +49,7 @@
 </p>  
 
 
-## Let's Connect 🤝
+## Let's Connect <img src="https://img.icons8.com/color-glass/28/000000/share-2.png"/>
 *You Can Reach Me At*
 
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/mohamed-mahmoud-2b729360/)
