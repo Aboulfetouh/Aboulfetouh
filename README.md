@@ -35,6 +35,7 @@
 
 <img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/40/000000/jenkins.png" title="Jenkins"/><img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/rest-assured-logo.png" title="Rest-Assured" width="40px"/><img src="https://img.icons8.com/color/40/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/40/vue-js.png" title="Vue-JS"/><img src="https://img.icons8.com/color/40/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/40/npm.png" title="NPM"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/REST%20API.png" title="Restful-API" width="40px"/>
 
+<br>
 
 <h3 align="center">
   Let's Connect  <img src="https://img.icons8.com/color-glass/23/000000/share-2.png"/>
@@ -50,6 +51,7 @@
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 <!-- [<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
 
+<br>
 
 <h3 align="center">
   Here's to make your day better  <img src="https://img.icons8.com/ios/23/000000/9gag.png"/>
