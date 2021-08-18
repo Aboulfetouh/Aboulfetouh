@@ -4,6 +4,19 @@
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
 </h3>
 
+<br>
+
+<h3 align="center">  About Me!  <img src="https://img.icons8.com/doodle/23/000000/me-at-walmart.png"/></h3>
+<hr>
+
+I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, and back-end testing. I'm well acquainted in working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all dimensions of functionality, usability & reliability.
+
+Currently, I'm working as a test automation engineer, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I've implemented and developed an automation framework using Java, Maven, TestNG, and Hybrid models using Selenium WebDriver, and Grid for e-Commerce, Healthcare, IT services, and enterprise applications software (EAS) domains.
+
+In addition to being a test automation engineer, I have broad interests including space science, technology, political science, and soccer.
+
+<br>
+
 <h3 align="center">  Skills Set!  <img src="https://img.icons8.com/ios-filled/23/000000/lion-head.png"/></h3>
 <hr>
 
