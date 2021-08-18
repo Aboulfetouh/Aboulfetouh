@@ -6,7 +6,7 @@
 
 <br>
 
-<h3 align="center">  About Me!  <img src="https://img.icons8.com/doodle/23/000000/me-at-walmart.png"/></h3>
+<h3 align="center">  About Me!  <img src="https://img.icons8.com/doodle/20/000000/me-at-walmart.png"/></h3>
 <hr>
 
 I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, and back-end testing. I'm well acquainted in working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all dimensions of functionality, usability & reliability.
@@ -17,7 +17,7 @@ In addition to being a test automation engineer, I have broad interests includin
 
 <br>
 
-<h3 align="center">  Skills Set!  <img src="https://img.icons8.com/ios-filled/23/000000/lion-head.png"/></h3>
+<h3 align="center">  Skills Set!  <img src="https://img.icons8.com/ios-filled/20/000000/lion-head.png"/></h3>
 <hr>
 
 ### `Languages`
@@ -57,7 +57,7 @@ In addition to being a test automation engineer, I have broad interests includin
 <br>
 
 <h3 align="center">
-  Let's Connect  <img src="https://img.icons8.com/color-glass/23/000000/share-2.png"/>
+  Let's Connect  <img src="https://img.icons8.com/color-glass/20/000000/share-2.png"/>
 </h3>
 <hr>
 
@@ -73,7 +73,7 @@ In addition to being a test automation engineer, I have broad interests includin
 <br>
 
 <h3 align="center">
-  Here's to make your day better  <img src="https://img.icons8.com/ios/23/000000/9gag.png"/>
+  Here's to make your day better  <img src="https://img.icons8.com/ios/20/000000/9gag.png"/>
 </h3>
 <hr>
 
