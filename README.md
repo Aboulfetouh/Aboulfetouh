@@ -10,26 +10,32 @@
 ### `Languages`
 
 <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" title="Java"/><img src="https://img.icons8.com/color/40/000000/css3.png" title="CSS"/><img src="https://img.icons8.com/color/40/000000/html-5--v1.png" title="HTML5"/><img src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png" title="Microsoft SQL"/><img src="https://img.icons8.com/fluency/40/000000/mysql-logo.png" title="MySQL"/>  <img src="https://img.icons8.com/ios-filled/40/000000/markdown.png" title="Markdown"/>
+<br>
 
 ### `Version Control`
 
 <img src="https://img.icons8.com/color/40/000000/git.png" title="Git"/><img src="https://img.icons8.com/color/40/000000/bitbucket.png" title="Bitbucket"/><img src="https://img.icons8.com/ios-filled/40/000000/github.png" title="GitHub"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gitbash.png" title="Git Bash" width="40px"/><img src="https://img.icons8.com/color/40/000000/gitlab.png" title="Gitlab"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gitactions.png" title="Git Actions" width="40px"/><img src="https://img.icons8.com/color/40/000000/github-2.png" title="Octocat"/>
+<br>
 
 ### `Tools and Frameworks`
 
 <img src="https://img.icons8.com/office/40/000000/selenium-test-automation.png" title="Selenium"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Apache_Maven.png" title="Maven" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/webdriverio.png" title="WebDriverIO" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/junit5-banner.png" title="JUnit" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Testng.png" title="TestNG" width="40px"/><img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" title="AWS"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Apache_JMeter.png" title="JMeter" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Postman.png" title="Postman" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/swagger-logo.png" title="Swagger" width="40px"/><img src="https://img.icons8.com/color/40/000000/google-cloud.png" title="Google Cloud"/><img src="https://img.icons8.com/color/40/000000/google-analytics.png" title="Google Analytics" width="40px"/>
+<br>
 
 ### `IDE/Editors`
 
 <img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/EclipseIde.png" title="Eclipse IDE" width="40px"/><img src="https://img.icons8.com/color/40/000000/visual-studio-code-2019.png" title="Visual Studio Code"/><img src="https://img.icons8.com/color/40/000000/intellij-idea.png" title="IntelliJ IDEA"/><img src="https://img.icons8.com/color/40/000000/android-studio--v2.png" title="Android Studio"/>
+<br>
 
 ### `Operating Systems`
 
 <img src="https://img.icons8.com/color/40/000000/windows-10.png" title="Windows"/><img src="https://img.icons8.com/color/40/000000/linux--v1.png" title="Linux"/><img src="https://img.icons8.com/ios-glyphs/40/000000/mac-client.png" title="Mac"/><img src="https://img.icons8.com/color/40/000000/android-os.png" title="Android"/><img src="https://img.icons8.com/ios/40/000000/ios-logo.png" title="iOS"/>
+<br>
 
 ### `Others`
 
 <img src="https://img.icons8.com/color/40/000000/azure-1.png" title="Microsoft Azure" height="28" /><img src="https://img.icons8.com/color/40/000000/jira.png" title="Jira"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Scrum.png" title="Scrum" width="40px"/><img src="https://img.icons8.com/color/40/000000/stackoverflow.png" title="Stack Overflow"/><img src="https://img.icons8.com/color/40/000000/confluence--v2.png" title="Confluence"/><img src="https://img.icons8.com/color/40/000000/wordpress.png" title="Wordpress"/><img src="https://img.icons8.com/ios-filled/40/000000/ookla-speedtest.png" title="Speedtest"/>
+<br>
 
 ### `Technologies on my Checklist`
 
