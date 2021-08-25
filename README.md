@@ -1,5 +1,6 @@
-<h3 align="center">  Welcome to my profile!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-<!-- <p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BB00BBB6&size=40&center=true&vCenter=true&width=650&height=65&lines=Hi+there!+%F0%9F%98%8E;My+name+is+Mohamed+.+.+.;I'm+a+QA+Automation+Engineer+%F0%9F%A4%96++;Feel+free+to+get+in+touch!+%F0%9F%98%84+"></a> -->
+<h3 align="center">  Hi There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+<p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BD00BDDC&size=36&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+solutions+to+testing+problems;Feel+free+to+get+in+touch!+%F0%9F%98%84"></a>
 <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.gif">
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
 </h3>
