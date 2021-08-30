@@ -64,9 +64,9 @@ In addition to being a test automation engineer, I have broad interests includin
 
 *You Can Reach Me At*
 
-[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/mohamed-mahmoud-2b729360/)
+[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/itsmomahmoud)
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/GitHub.png" height="40em" align="center" alt="Follow Me on GitHub" title="Follow Me on GitHub"/>](https://github.com/Aboulfetouh)
-[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gmail.png" height="40em" align="center" alt="Get in touch on Gmail" title="Get in touch on Gmail"/>](mohkhaled.mahmoud@gmail.com)
+[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gmail.png" height="40em" align="center" alt="Get in touch on Gmail" title="Get in touch on Gmail"/>](itsmomahmoud@gmail.com)
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 <!-- [<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
