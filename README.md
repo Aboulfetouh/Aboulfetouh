@@ -53,7 +53,7 @@ In addition to being a test automation engineer, I have broad interests includin
 
 ### `Technologies on my Checklist`
 
-<img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/40/000000/jenkins.png" title="Jenkins"/><img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="40px"/><img src="https://img.icons8.com/color/40/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/40/vue-js.png" title="Vue-JS"/><img src="https://img.icons8.com/color/40/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/40/npm.png" title="NPM"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/REST%20API.png" title="Restful-API" width="40px"/>
+<img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="37px"/><img src="https://img.icons8.com/color/40/000000/jenkins.png" title="Jenkins"/><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/><img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/40/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/40/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/40/vue-js.png" title="Vue-JS"/><img src="https://img.icons8.com/color/40/npm.png" title="NPM"/>
 
 <br>
 
