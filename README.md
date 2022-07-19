@@ -23,7 +23,7 @@ In addition to being a test automation engineer, I have broad interests includin
 
 ### `Languages`
 
-<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" title="Java"/><img src="https://img.icons8.com/color/40/000000/css3.png" title="CSS"/><img src="https://img.icons8.com/color/40/000000/html-5--v1.png" title="HTML5"/><img src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png" title="Microsoft SQL"/><img src="https://img.icons8.com/fluency/40/000000/mysql-logo.png" title="MySQL"/>  <img src="https://img.icons8.com/ios-filled/40/000000/markdown.png" title="Markdown"/>
+<img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo--v2.png" title="Java"/><img src="https://img.icons8.com/color/40/000000/c-sharp-logo.png" title="C#"/><img src="https://img.icons8.com/color/40/000000/css3.png" title="CSS"/><img src="https://img.icons8.com/color/40/000000/html-5--v1.png" title="HTML5"/><img src="https://img.icons8.com/color/40/000000/microsoft-sql-server.png" title="Microsoft SQL"/><img src="https://img.icons8.com/fluency/40/000000/mysql-logo.png" title="MySQL"/>  <img src="https://img.icons8.com/ios-filled/40/000000/markdown.png" title="Markdown"/>
 <br>
 
 ### `Version Control`
@@ -67,9 +67,9 @@ In addition to being a test automation engineer, I have broad interests includin
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/itsmomahmoud)
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/GitHub.png" height="40em" align="center" alt="Follow Me on GitHub" title="Follow Me on GitHub"/>](https://github.com/Aboulfetouh)
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gmail.png" height="40em" align="center" alt="Send Me an Email" title="Send Me an Email"/>](mailto:itsmomahmoud@gmail.com)
-[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
+<!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
-<!-- [<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
+[<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
 
 <br>
 
@@ -96,8 +96,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aboulfetouh)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- <a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BB00BBB6&size=40&center=true&vCenter=true&width=650&height=65&lines=Hi+there!+%F0%9F%98%8E;My+name+is+Mohamed+.+.+.;I'm+a+QA+Automation+Engineer+%F0%9F%A4%96++;Feel+free+to+get+in+touch!+%F0%9F%98%84+"></a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aboulfetouh)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BB00BBB6&size=40&center=true&vCenter=true&width=650&height=65&lines=Hi+there!+%F0%9F%98%8E;My+name+is+Mohamed+.+.+.;I'm+a+QA+Automation+Engineer+%F0%9F%A4%96++;Feel+free+to+get+in+touch!+%F0%9F%98%84+"></a>
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400"/> -->
