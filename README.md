@@ -54,8 +54,16 @@ In addition to being a test automation engineer, I have broad interests includin
 ### `Technologies on my Checklist`
 
 <img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="37px"/><img src="https://img.icons8.com/color/40/000000/jenkins.png" title="Jenkins"/><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/><img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/40/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/40/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/40/vue-js.png" title="Vue-JS"/><img src="https://img.icons8.com/color/40/npm.png" title="NPM"/>
-
 <br>
+
+### `I'm an Early 🐤` 
+
+```text
+🌞 Morning    90  commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+🌆 Daytime    270 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
+🌃 Evening    216 commits    ███████░░░░░░░░░░░░░░░░░░   31.46% 
+🌙 Night      86  commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83%
+```
 
 <h3 align="center">
   Let's Connect  <img src="https://img.icons8.com/color-glass/20/000000/share-2.png"/>
@@ -70,7 +78,6 @@ In addition to being a test automation engineer, I have broad interests includin
 <!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 [<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
-
 <br>
 
 <h3 align="center">
