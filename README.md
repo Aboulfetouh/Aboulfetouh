@@ -1,7 +1,8 @@
 <h3 align="center">  Hi There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+  
 <p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BD00BDDC&size=36&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+solutions+to+testing+problems;Feel+free+to+get+in+touch!+%F0%9F%98%84"></a>
-<p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.gif">
+  
+<p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
 </h3>
 
@@ -10,11 +11,13 @@
 <h3 align="center">  About Me!  <img src="https://img.icons8.com/doodle/20/000000/me-at-walmart.png"/></h3>
 <hr>
 
-I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, and back-end testing. I'm well acquainted in working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all dimensions of functionality, usability & reliability.
+I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, back-end, and performance testing.  I'm well acquainted with working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all dimensions of functionality, usability, reliability, and non-functional.
 
-Currently, I'm working as a test automation engineer, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. I've implemented and developed an automation framework using Java, Maven, TestNG, and Hybrid models using Selenium WebDriver, and Grid for e-Commerce, Healthcare, IT services, and enterprise applications software (EAS) domains.
+Currently, I'm working as a QA Engineer for Performance and Automated Testing, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. 
 
-In addition to being a test automation engineer, I have broad interests including space science, technology, political science, and soccer.
+I've implemented and developed automation frameworks using Java, Maven, TestNG, Cucumber, and Hybrid models using Selenium WebDriver, and Grid, implementing POM design patterns and data-driven testing. I've also developed, maintained, and executed Performance test suites for API & Webservices utilizing Apache JMeter to inject load and stress tests, analyzing metrics from application and system logs, that simulate system behavior, for FinTech, e-Commerce, Healthcare, Retail, and enterprise applications software (EAS) domains.
+
+In addition to being a full-stack test automation engineer, I have broad interests including space science, technology, political science, and soccer.
 
 <br>
 
@@ -33,7 +36,7 @@ In addition to being a test automation engineer, I have broad interests includin
 
 ### `Tools and Frameworks`
 
-<img src="https://img.icons8.com/office/40/000000/selenium-test-automation.png" title="Selenium"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Apache_Maven.png" title="Maven" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/rest-assured-logo.png" title="Rest-Assured" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Apache_JMeter.png" title="JMeter" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/webdriverio.png" title="WebDriverIO" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Testng.png" title="TestNG" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/junit5-banner.png" title="JUnit" width="40px"/><img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" title="AWS"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Postman.png" title="Postman" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/swagger-logo.png" title="Swagger" width="40px"/><img src="https://img.icons8.com/color/40/000000/google-cloud.png" title="Google Cloud"/><img src="https://img.icons8.com/color/40/000000/google-analytics.png" title="Google Analytics" width="40px"/>
+<img src="https://img.icons8.com/office/40/000000/selenium-test-automation.png" title="Selenium"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/maven-svgrepo-com.svg" title="Maven" width="40px"/><img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-icon.svg" title="Cucumber" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Apache_JMeter.png" title="JMeter" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/webdriverio.png" title="WebDriverIO" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/TestNG.png" title="TestNG" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/junit5-banner.png" title="JUnit" width="40px"/><img src="https://img.icons8.com/color/40/000000/amazon-web-services.png" title="AWS"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/rest-assured-logo.png" title="Rest-Assured" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Postman.png" title="Postman" width="40px"/><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/swagger-logo.png" title="Swagger" width="40px"/><img src="https://img.icons8.com/color/40/000000/google-cloud.png" title="Google Cloud"/><img src="https://img.icons8.com/color/40/000000/google-analytics.png" title="Google Analytics" width="40px"/>
 <br>
 
 ### `IDE/Editors`
@@ -56,21 +59,14 @@ In addition to being a test automation engineer, I have broad interests includin
 <img src="https://brandslogos.com/wp-content/uploads/images/large/appium-logo.png" title="Appium" width="37px"/><img src="https://img.icons8.com/color/40/000000/jenkins.png" title="Jenkins"/><img src="https://img.icons8.com/color/40/000000/docker.png" title="Docker"/><img src="https://img.icons8.com/color/40/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/40/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/40/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/40/vue-js.png" title="Vue-JS"/><img src="https://img.icons8.com/color/40/npm.png" title="NPM"/>
 <br>
 
-### `I'm an Early 🐤` 
-
-```text
-🌞 Morning    90  commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-🌆 Daytime    270 commits    █████████░░░░░░░░░░░░░░░░   38.36% 
-🌃 Evening    216 commits    ███████░░░░░░░░░░░░░░░░░░   31.46% 
-🌙 Night      86  commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83%
-```
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&layout=compact">
 
 <h3 align="center">
   Let's Connect  <img src="https://img.icons8.com/color-glass/20/000000/share-2.png"/>
 </h3>
 <hr>
 
-*You Can Reach Me At*
+### `You Can Reach Me At`
 
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/itsmomahmoud)
 [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/GitHub.png" height="40em" align="center" alt="Follow Me on GitHub" title="Follow Me on GitHub"/>](https://github.com/Aboulfetouh)
@@ -87,7 +83,7 @@ In addition to being a test automation engineer, I have broad interests includin
 
 *(PS: Refresh the page to see a new meme :wink:)*
 
-<a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
 <!--
 
