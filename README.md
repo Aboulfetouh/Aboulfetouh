@@ -10,8 +10,7 @@ I am an experienced software quality engineer, in both manual and automation tes
 Currently, I'm working as a QA Automation Chapter Lead for Performance and Automated Testing, soaking up as much knowledge and practice as I can, in an attempt to perfect my craft.<br /><br />
 I've implemented and developed automation frameworks using Typescript, Java, Maven, TestNG, Cucumber, and Hybrid models using Playwright, Selenium WebDriver, and Grid, implementing POM design patterns and data-driven testing. I've also developed, maintained, and executed Performance test suites for API & Webservices utilizing Apache JMeter to inject load and stress tests, analyzing metrics from application and system logs, that simulate system behavior, for FinTech, e-Commerce, Healthcare, Retail, and enterprise applications software (EAS) domains.<br /><br />
 In addition to being a full-stack test automation engineer, I have broad interests including space science, technology, political science, and soccer.<br /><br />
-
-  
+Feel free to get in touch if you need any further information.<br /><br />
 <h3 align="center"> Skills Set! <img src="https://img.icons8.com/ios-filled/26/000000/lion-head.png"/></h3><hr>
 
 ### `Languages`
