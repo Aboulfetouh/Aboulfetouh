@@ -45,7 +45,7 @@
 </h3>
 <hr>
 
-*(`PS: Refresh the page to see a new meme` :wink:)*
+*`PS: Refresh the page to see a new meme` :wink:*
 
 <a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 
