@@ -45,6 +45,16 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 <h3 align="center"> Let's Connect <img src="https://img.icons8.com/nolan/26/share-2.png"/></h3><hr>
 
+### `You Can Reach Me At`
+
+[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gmail.png" height="40em" align="center" alt="Send Me an Email" title="Send Me an Email"/>](mailto:itsmomahmoud@gmail.com)
+[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/itsmomahmoud)
+[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-xing-a-european-career-oriented-social-networking-site-logo-color-tal-revivo.png" height="40em" align="center" alt="Let's connect on Xing" title="Let's connect on Xing"/>](https://www.xing.com/profile/Mohamed_Mahmoud056517)
+[<img src="https://img.icons8.com/color/55/000000/github-2.png" height="55em" align="center" alt="Follow Me on GitHub" title="Follow Me on GitHub"/>](https://github.com/Aboulfetouh)
+<br />
+<br />
+<br />
+
 <!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 [<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
