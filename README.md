@@ -1,5 +1,6 @@
 <h3 align="center" style="color:#8F00FF">  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
-<p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BD00BDDC&size=36&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+solutions+to+testing+problems;Feel+free+to+get+in+touch!+%F0%9F%98%84"></a>
+<p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=E041FF&size=36&pause=1000&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+test+automation+frameworks;Test+execution%2C+and+script+troubleshooting;Feel+free+to+get+in+touch!+%F0%9F%98%84">
+  
 <h3 <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
   <br />
@@ -47,7 +48,7 @@
 
 *`PS: Refresh the page to see a new meme` :wink:*
 
-<a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+<a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 
 <!--
 
