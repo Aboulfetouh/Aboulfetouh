@@ -3,7 +3,7 @@
 <h3 <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
 <p  align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3><hr>
-I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, back-end, and performance testing. I'm well acquainted with working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all functionality, usability, reliability, and non-functional dimensions.
+  
 
 
 <h3 align="center"> Skills Set! <img src="https://img.icons8.com/ios-filled/26/000000/lion-head.png"/></h3><hr>
