@@ -1,4 +1,4 @@
-<h3 align="center" style="color:#8F00FF">  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
+<h3 align="center" style="color:#23EFFFFF">  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
 <p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=E041FF&size=36&pause=1000&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+test+automation+frameworks;Test+execution%2C+and+script+troubleshooting;Feel+free+to+get+in+touch!+%F0%9F%98%84">
   
 <h3 <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
