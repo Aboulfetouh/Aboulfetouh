@@ -1,11 +1,11 @@
-<h3 align="center" style="color:#0ED6FFFF">  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
+<h3 align="center">  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
 <p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=E041FF&size=36&pause=1000&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+test+automation+frameworks;Test+execution%2C+and+script+troubleshooting;Feel+free+to+get+in+touch!+%F0%9F%98%84">
 
-<h3 <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
+ <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
   <br />
   <br />
-<p  align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3>
+<h3  align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3>
 I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, back-end, and performance testing. I'm well acquainted with working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all functionality, usability, reliability, and non-functional dimensions.<br /><br />
 Currently, I'm working as a QA Automation Chapter Lead for Performance and Automated Testing, soaking up as much knowledge and practice as I can, in an attempt to perfect my craft.<br /><br />
 I've implemented and developed automation frameworks using Typescript, Java, Maven, TestNG, Cucumber, and Hybrid models using Playwright, Selenium WebDriver, and Grid, implementing POM design patterns and data-driven testing. I've also developed, maintained, and executed Performance test suites for API & Webservices utilizing Apache JMeter to inject load and stress tests, analyzing metrics from application and system logs, that simulate system behavior, for FinTech, e-Commerce, Healthcare, Retail, and enterprise applications software (EAS) domains.<br /><br />
@@ -45,13 +45,6 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 <h3 align="center"> Let's Connect <img src="https://img.icons8.com/nolan/26/share-2.png"/></h3><hr>
 
-### `You Can Reach Me At`
-
-[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Linkedin.png" height="40em" align="center" alt="Follow Me on LinkedIn" title="Follow Me on LinkedIn"/>](https://www.linkedin.com/in/itsmomahmoud)
-[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/GitHub.png" height="40em" align="center" alt="Follow Me on GitHub" title="Follow Me on GitHub"/>](https://github.com/Aboulfetouh)
-[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Gmail.png" height="40em" align="center" alt="Send Me an Email" title="Send Me an Email"/>](mailto:itsmomahmoud@gmail.com)
-<br />
-
 <!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
 [<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
@@ -79,7 +72,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+style="color:#0ED6FFFF"
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aboulfetouh)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BB00BBB6&size=40&center=true&vCenter=true&width=650&height=65&lines=Hi+there!+%F0%9F%98%8E;My+name+is+Mohamed+.+.+.;I'm+a+QA+Automation+Engineer+%F0%9F%A4%96++;Feel+free+to+get+in+touch!+%F0%9F%98%84+"></a>
