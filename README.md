@@ -3,15 +3,8 @@
 <h3 <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
 <p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
 <p  align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3><hr>
-I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, back-end, and performance testing. I'm well acquainted with working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all dimensions of functionality, usability, reliability, and non-functional.
+I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, back-end, and performance testing. I'm well acquainted with working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all functionality, usability, reliability, and non-functional dimensions.
 
-Currently, I'm working as a Senior QA Engineer for Performance and Automated Testing, soaking up as much knowledge and practice as I can in an attempt to perfect my craft. 
-
-I've implemented and developed automation frameworks using Typescript, Java, Maven, TestNG, Cucumber, and Hybrid models using Playwright, Selenium WebDriver, and Grid, implementing POM design patterns and data-driven testing. I've also developed, maintained, and executed Performance test suites for API & Webservices utilizing Apache JMeter to inject load and stress tests, analyzing metrics from application and system logs, that simulate system behavior, for FinTech, e-Commerce, Healthcare, Retail, and enterprise applications software (EAS) domains.
-
-In addition to being a full-stack test automation engineer, I have broad interests including space science, technology, political science, and soccer.
-
-Feel free to get in touch if you need any further information.
 
 <h3 align="center"> Skills Set! <img src="https://img.icons8.com/ios-filled/26/000000/lion-head.png"/></h3><hr>
 
