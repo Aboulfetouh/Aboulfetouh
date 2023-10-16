@@ -1,4 +1,4 @@
-<h3 align="center">  Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
+<h3 align="center"> Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
 <p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=E041FF&size=36&pause=1000&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+test+automation+frameworks;Test+execution%2C+and+script+troubleshooting;Feel+free+to+get+in+touch!+%F0%9F%98%84">
 
  <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
@@ -41,7 +41,7 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 <img src="https://img.icons8.com/color/45/000000/jenkins.png" title="Jenkins"/><img src="https://img.icons8.com/color/45/000000/docker.png" title="Docker"/><img src="https://img.icons8.com/color/45/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/45/vue-js.png" title="Vue-JS"/><br />
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&layout=compact"><br />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact"><br />
 
 <h3 align="center"> Let's Connect <img src="https://img.icons8.com/nolan/26/share-2.png"/></h3><hr>
 
