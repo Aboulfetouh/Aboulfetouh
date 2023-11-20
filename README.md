@@ -41,7 +41,9 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 <img src="https://img.icons8.com/color/45/000000/jenkins.png" title="Jenkins"/><img src="https://img.icons8.com/color/45/000000/docker.png" title="Docker"/><img src="https://img.icons8.com/color/45/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/45/vue-js.png" title="Vue-JS"/><br />
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=8&size_weight=0.5&count_weight=0.5&layout=compact"><br />
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=6&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=6&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-light-mode-only)
+
 
 <h3 align="center"> Let's Connect <img src="https://img.icons8.com/nolan/26/share-2.png"/></h3><hr>
 
