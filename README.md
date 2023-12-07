@@ -67,9 +67,9 @@ _`PS: Refresh the page to see a new meme` :wink:_
 
 
 <br /><hr><br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=transparent"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aboulfetouh"/></p><br />
-
+[![Adam's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-dark-mode-only)
+[![Adam's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=default#gh-light-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-light-mode-only)
+<br />
 
 <!--
 **Aboulfetouh/Aboulfetouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
