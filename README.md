@@ -1,11 +1,11 @@
 <h3 align="center"> Hi There! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="30"/></h3><br />
 <p align="center"><a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=E041FF&size=36&pause=1000&center=true&vCenter=true&width=650&height=55&lines=Welcome+to+my+profile!;I'm+A+Test+Automation+Enthusiastic+%F0%9F%A4%96;Building+test+automation+frameworks;Test+execution%2C+and+script+troubleshooting;Feel+free+to+get+in+touch!+%F0%9F%98%84">
 
- <p  align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
-<p  align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
-  <br />
-  <br />
-<h3  align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3><hr>
+<p align="center"><img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/config/github-contribution-grid-snake.svg">
+<p align="center"><img src="https://api.visitorbadge.io/api/VisitorHit?path=aboulfetouh&label=Git%20Visitors&repo=github-visitors-badge&countColor=mediumorchid"/>
+<br />
+<br />
+<h3 align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3><hr>
 I am an experienced software quality engineer, in both manual and automation testing of client-server, web-based applications, mobile applications, back-end, and performance testing. I'm well acquainted with working in Agile, Scrum, and Waterfall (SDLC/STLC Methodologies) and in all functionality, usability, reliability, and non-functional dimensions.<br /><br />
 Currently, I'm working as a QA Automation Chapter Lead for Performance and Automated Testing, soaking up as much knowledge and practice as I can, in an attempt to perfect my craft.<br /><br />
 I've implemented and developed automation frameworks using Typescript, Java, Maven, TestNG, Cucumber, and Hybrid models using Playwright, Selenium WebDriver, and Grid, implementing POM design patterns and data-driven testing. I've also developed, maintained, and executed Performance test suites for API & Webservices utilizing Apache JMeter to inject load and stress tests, analyzing metrics from application and system logs, that simulate system behavior, for FinTech, e-Commerce, Healthcare, Retail, and enterprise applications software (EAS) domains.<br /><br />
@@ -41,8 +41,8 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 <img src="https://img.icons8.com/color/45/000000/jenkins.png" title="Jenkins"/><img src="https://img.icons8.com/color/45/000000/docker.png" title="Docker"/><img src="https://img.icons8.com/color/45/000000/python--v1.png" title="Python"/><img src="https://img.icons8.com/color/45/vue-js.png" title="Vue-JS"/><br />
 
-[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=6&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-dark-mode-only)
-[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=6&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-light-mode-only)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=6&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Aboulfetouh&langs_count=6&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-light-mode-only)
 
 
 <h3 align="center"> Let's Connect <img src="https://img.icons8.com/nolan/26/share-2.png"/></h3><hr>
@@ -57,13 +57,8 @@ Feel free to get in touch if you need any further information.<br /><br />
 <br />
 <br />
 
-<!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/adam.aboulfetouh/)
-[<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/adamaboulfetouh)
-[<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
 
-<h3 align="center">
-  Here's to make your day better  <img src="https://img.icons8.com/ios/26/000000/9gag.png"/>
-</h3>
+<h3 align="center"> Here's to make your day better  <img src="https://img.icons8.com/ios/26/000000/9gag.png"/></h3>
 <hr>
 
 _`PS: Refresh the page to see a new meme` :wink:_
@@ -72,11 +67,10 @@ _`PS: Refresh the page to see a new meme` :wink:_
 
 
 <br /><hr><br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aboulfetouh"/></p>
-<br />
-<!--
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=transparent"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aboulfetouh"/></p><br />
 
+<!--
 **Aboulfetouh/Aboulfetouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -91,6 +85,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 style="color:#0ED6FFFF"
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aboulfetouh)](https://github.com/ryo-ma/github-profile-trophy)
-<a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src="https://readme-typing-svg.herokuapp.com?font=Cabin&color=%23BB00BBB6&size=40&center=true&vCenter=true&width=650&height=65&lines=Hi+there!+%F0%9F%98%8E;My+name+is+Mohamed+.+.+.;I'm+a+QA+Automation+Engineer+%F0%9F%A4%96++;Feel+free+to+get+in+touch!+%F0%9F%98%84+"></a>
+<!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/???/)
+[<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/???)
+[<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400"/> -->
