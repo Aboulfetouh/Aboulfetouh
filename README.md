@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 style="color:#0ED6FFFF"
 
-<!-- [<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/???/)
+[<img src="https://github.com/Aboulfetouh/Aboulfetouh/blob/main/Social/Instagram.png" height="40em" align="center" alt="Follow Me on Instagram" title="Follow Me on Instagram"/>](https://www.instagram.com/???/)
 [<img src="https://img.icons8.com/color/144/000000/twitter--v2.png" height="50em" align="center" alt="Follow Me on Twitter" title="Follow Me on Twitter"/>](https://twitter.com/???)
-[<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh) -->
+[<img src="https://img.icons8.com/color/144/000000/gitlab.png" height="50em" align="center" alt="Follow Me on GitLab" title="Follow Me on GitLab"/>](https://gitlab.com/Aboulfetouh)
   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="400"/> -->
