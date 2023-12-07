@@ -70,6 +70,11 @@ _`PS: Refresh the page to see a new meme` :wink:_
 
 <a href="https://github.com/Aboulfetouh/Aboulfetouh"><img src='https://camo.githubusercontent.com/d809aad38fc10dac3806149506748f6c116f4602e9df8e0e93de1819b4d901ae/68747470733a2f2f6d656d65722d7472696e69622e76657263656c2e6170702f' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 
+
+<br /><hr><br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aboulfetouh"/></p>
+<br />
 <!--
 
 **Aboulfetouh/Aboulfetouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
