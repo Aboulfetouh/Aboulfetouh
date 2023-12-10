@@ -35,7 +35,7 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 ### `Others`
 
-<img src="https://img.icons8.com/color/45/000000/confluence--v2.png" title="Confluence"/><img src="https://img.icons8.com/color/45/000000/jira.png" title="Jira"/><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/45/external-scrum-agile-flaticons-flat-flat-icons-2.png" title="Scrum" width="45px"/><img src="https://img.icons8.com/color/45/000000/stackoverflow.png" title="Stack Overflow"/><img src="https://img.icons8.com/fluency/45/azure-1.png" title="Microsoft Azure"/><img src="https://img.icons8.com/color/45/000000/wordpress.png" title="Wordpress"/><img src="https://img.icons8.com/ios-filled/45/000000/ookla-speedtest.png" title="Speedtest"/><br />
+<img src="https://img.icons8.com/color/45/000000/confluence--v2.png" title="Confluence"/><img src="https://img.icons8.com/color/45/000000/jira.png" title="Jira"/><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/45/external-scrum-agile-flaticons-flat-flat-icons-2.png" title="Scrum" width="45px"/><img src="https://img.icons8.com/color/45/000000/stackoverflow.png" title="Stack Overflow"/><img src="https://img.icons8.com/fluency/45/azure-1.png" title="Microsoft Azure"/><img src="https://img.icons8.com/color/45/000000/wordpress.png" title="Wordpress"/><br />
 
 ### `Technologies on my Checklist`
 
