@@ -15,7 +15,9 @@ Feel free to get in touch if you need any further information.<br /><br />
 
 ### `Languages`
 
-<img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo--v2.png" title="Java"/><img src="https://img.icons8.com/color/45/null/typescript.png" title="TypeScript"/><img src="https://img.icons8.com/color/45/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/45/000000/c-sharp-logo.png" title="C#"/><img src="https://img.icons8.com/color/45/000000/css3.png" title="CSS"/><img src="https://img.icons8.com/color/45/000000/html-5--v1.png" title="HTML5"/><img src="https://img.icons8.com/color/45/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/45/000000/microsoft-sql-server.png" title="Microsoft SQL"/><img src="https://img.icons8.com/fluency/45/000000/mysql-logo.png" title="MySQL"/><img src="https://img.icons8.com/ios-filled/45/000000/markdown.png" title="Markdown"/><br />
+<img src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo--v2.png" title="Java"/><img src="https://img.icons8.com/color/45/null/typescript.png" title="TypeScript"/><img src="https://img.icons8.com/color/45/000000/javascript--v1.png" title="JavaScript"/><img src="https://img.icons8.com/color/45/000000/c-sharp-logo.png" title="C#"/><img src="https://img.icons8.com/color/45/000000/css3.png" title="CSS"/><img src="https://img.icons8.com/color/45/000000/html-5--v1.png" title="HTML5"/><img src="https://img.icons8.com/color/45/nodejs.png" title="NodeJS"/><img src="https://img.icons8.com/color/45/000000/microsoft-sql-server.png" title="Microsoft SQL"/><img src="https://img.icons8.com/fluency/45/000000/mysql-logo.png" title="MySQL"/>
+
+<!-- <img src="https://img.icons8.com/ultraviolet/48/markdown.png" title="Markdown"/><br /> -->
 
 ### `Version Control`
 
