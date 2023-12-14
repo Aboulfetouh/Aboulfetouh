@@ -67,7 +67,7 @@ _`PS: Refresh the page to see a new meme` :wink:_
 
 
 <br /><hr><br />
-[![Adam's GitHub stats-Dark](https://https://github-readme-stats-pink-three-66.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-dark-mode-only)
+[![Adam's GitHub stats-Dark](https://github-readme-stats-pink-three-66.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=dark#gh-dark-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-dark-mode-only)
 [![Adam's GitHub stats-Light](https://github-readme-stats-pink-three-66.vercel.app/api?username=Aboulfetouh&show_icons=true&locale=en&theme=default#gh-light-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-light-mode-only)
 [![Adam's GitHub streak-Dark](https://github-readme-streak-stats.herokuapp.com?user=aboulfetouh&border_radius=5&theme=dark#gh-dark-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-dark-mode-only)
 [![Adam's GitHub streak-Light](https://github-readme-streak-stats.herokuapp.com?user=aboulfetouh&border_radius=5&theme=default#gh-light-mode-only)](https://github.com/Aboulfetouh/github-readme-stats#gh-light-mode-only)
