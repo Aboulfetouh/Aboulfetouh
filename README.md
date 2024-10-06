@@ -9,7 +9,7 @@
 <br />
 <h3 align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3><hr>
 I am a dedicated software quality engineer with extensive experience in both manual and automated testing across client-server, web-based applications, mobile applications, back-end systems, and performance testing. I am well-versed in Agile, SAFE, Scrum, and Waterfall methodologies, ensuring the delivery of high-quality software across functional, usability, reliability, and non-functional dimensions.<br /><br />
-Currently, I'm working as a QA Automation Chapter Lead for Performance and Automated Testing, soaking up as much knowledge and practice as I can, in an attempt to perfect my craft.<br /><br />
+Currently, I serve as a QA Automation Chapter Lead specializing in Performance and Automated Testing. In this role, I am constantly refining my skills and deepening my knowledge to perfect my craft.<br /><br />
 I've implemented and developed automation frameworks using Typescript, Java, Maven, TestNG, Cucumber, and Hybrid models using Playwright, Selenium WebDriver, and Grid, implementing POM design patterns and data-driven testing. I've also developed, maintained, and executed Performance test suites for API & Webservices utilizing Apache JMeter to inject load and stress tests, analyzing metrics from application and system logs, that simulate system behavior, for FinTech, e-Commerce, Healthcare, Retail, and enterprise applications software (EAS) domains.<br /><br />
 In addition to being a full-stack test automation engineer, I have broad interests including space science, technology, political science, and soccer.<br /><br />
 Feel free to get in touch if you need any further information.<br /><br />
