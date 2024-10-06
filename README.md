@@ -14,8 +14,12 @@ Currently, I serve as a <strong>QA Automation Chapter Lead</strong> specializing
 <br /><br />
 Throughout my career, I have successfully implemented and developed automation frameworks using a variety of technologies, including <strong>TypeScript, JavaScript, Java, Maven, TestNG, Cucumber</strong>, and hybrid models like <strong>Robot Framework, Playwright</strong>, and <strong>Selenium WebDriver</strong>. I specialize in <strong>Page Object Model (POM) design patterns</strong> and <strong>data-driven testing</strong>, ensuring robust and scalable test automation solutions.
 <br /><br />
-In addition to being a full-stack test automation engineer, I have broad interests including space science, technology, political science, and soccer.<br /><br />
-Feel free to get in touch if you need any further information.<br /><br />
+In addition, I have developed, maintained, and executed performance test suites for APIs and web services using <strong>Apache JMeter</strong>. This includes conducting load and stress tests, analyzing application and system logs to simulate real-world system behavior, and delivering insights across industries such as <strong>FinTech, Travel & Tourism, e-Commerce, Healthcare, Retail, and Enterprise Application Software (EAS)</strong> domains.
+<br /><br />
+Beyond my role as a full-stack test automation engineer, I have diverse interests in <strong>space science, technology, political science, and soccer</strong>.
+<br /><br />
+Feel free to reach out if you'd like to connect or discuss any opportunities further.
+<br /><br />
 <h3 align="center"> Skills Set! <img src="https://img.icons8.com/ios-filled/26/000000/lion-head.png"/></h3><hr>
 
 ### `Languages`
