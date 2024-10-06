@@ -10,9 +10,9 @@
 <h3 align="center"> About Me! <img src="https://img.icons8.com/color/26/null/facial-recognition-scan.png"/></h3><hr>
 I am a dedicated software quality engineer with extensive experience in both manual and automated testing across client-server, web-based applications, mobile applications, back-end systems, and performance testing. I am well-versed in Agile, SAFE, Scrum, and Waterfall methodologies, ensuring the delivery of high-quality software across functional, usability, reliability, and non-functional dimensions.
 <br /><br />
-Currently, I serve as a _QA Automation Chapter Lead_ specializing in Performance and Automated Testing. In this role, I am constantly refining my skills and deepening my knowledge to perfect my craft.
+Currently, I serve as a <strong>QA Automation Chapter Lead</strong> specializing in Performance and Automated Testing. In this role, I am constantly refining my skills and deepening my knowledge to perfect my craft.
 <br /><br />
-Throughout my career, I have successfully implemented and developed automation frameworks using a variety of technologies, including **TypeScript, JavaScript, Java, Maven, TestNG, Cucumber**, and hybrid models like **Robot Framework, Playwright**, and **Selenium WebDriver**. I specialize in **Page Object Model (POM) design patterns** and **data-driven testing**, ensuring robust and scalable test automation solutions.
+Throughout my career, I have successfully implemented and developed automation frameworks using a variety of technologies, including <strong>TypeScript, JavaScript, Java, Maven, TestNG, Cucumber</strong>, and hybrid models like <strong>Robot Framework, Playwright</strong>, and <strong>Selenium WebDriver</strong>. I specialize in <strong>Page Object Model (POM) design patterns</strong> and <strong>data-driven testing</strong>, ensuring robust and scalable test automation solutions.
 <br /><br />
 In addition to being a full-stack test automation engineer, I have broad interests including space science, technology, political science, and soccer.<br /><br />
 Feel free to get in touch if you need any further information.<br /><br />
